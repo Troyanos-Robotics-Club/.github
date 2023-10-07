@@ -1,13 +1,39 @@
-## Hi there 👋
+# 🤖Welcome to TRC (Troyan Robotic Club)!!
 
-Pending documentation...
-<!--
+Este es la organizción del club de robótica. Aquí organizamos todos los
+repositorios de código del club, y podemos compartir nuestros archivos usando
+**Git** y **Github**
 
-**Here are some ideas to get you started:**
+**Es muy importante que conozcas como funciona para poder colaborar!!** Puedes
+ver la presentación y video de capacitación del **Taller de Git \& Github**
+para darte una idea.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Como trabajar en Proyectos
+
+# Resources and Important links
+
+- [Carpeta compartida club google drive](https://drive.google.com/drive/folders/0ALCTUywotFMEUk9PVA)
+
+# Organización del club
+
+## Proyectos activos
+
+Estos son los proyectos activos del club. 
+
+- Windshield Simulator
+- Dron base thingy
+- Brazo robotico
+
+## Departamentos
+
+## Departamento de Reclutamiento
+## Departamento de Talleres y eventos
+## Departamento de Finanzas
+
+
+# Guidelines
+
+# Current members
+
+- [Eduardo Gomez](https://github.com/G00Z-G00Z)
+
