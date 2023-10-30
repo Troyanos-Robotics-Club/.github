@@ -1,4 +1,4 @@
-# 🤖Welcome to TRC (Troyan Robotic Club)!!
+# 🤖Welcome To TRC (Troyan Robotic Club)
 
 Este es la organizción del club de robótica. Aquí organizamos todos los
 repositorios de código del club, y podemos compartir nuestros archivos usando
@@ -8,15 +8,15 @@ repositorios de código del club, y podemos compartir nuestros archivos usando
 ver la presentación y video de capacitación del **Taller de Git \& Github**
 para darte una idea.
 
-# Como trabajar en Proyectos
+# Como Trabajar En Proyectos
 
-# Resources and Important links
+# Resources and Important Links
 
 - [Carpeta compartida club google drive](https://drive.google.com/drive/folders/0ALCTUywotFMEUk9PVA)
 
-# Organización del club
+# Organización Del Club
 
-## Proyectos activos
+## Proyectos Activos
 
 Estos son los proyectos activos del club. 
 
@@ -26,14 +26,12 @@ Estos son los proyectos activos del club.
 
 ## Departamentos
 
-## Departamento de Reclutamiento
-## Departamento de Talleres y eventos
-## Departamento de Finanzas
-
+## Departamento De Reclutamiento
+## Departamento De Talleres y Eventos
+## Departamento De Finanzas
 
 # Guidelines
 
-# Current members
+# Current Members
 
 - [Eduardo Gomez](https://github.com/G00Z-G00Z)
-
